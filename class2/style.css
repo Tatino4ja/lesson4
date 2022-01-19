@@ -1,0 +1,27 @@
+.w630 {
+    width: 630px;
+}
+.h150 {
+    height: 150px;
+}
+.bgs{
+    background: silver;
+}
+.flex{
+    display: flex;
+}
+.w150{
+    width: 150px;
+}
+.h310{
+    height: 310px;
+}
+.w470{
+    width: 470px;
+}
+.jk{
+    justify-content: space-between;
+}
+.mt10px{
+    margin-top: 10px;
+}
