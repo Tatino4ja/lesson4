@@ -1,0 +1,27 @@
+.w630{
+    width: 630px;
+}
+.h150{
+    height: 150px;
+}
+.bgs{
+    background: silver;
+}
+.flex{
+    display: flex;
+}
+.w470{
+    width: 470px;
+}
+.w150{
+    width: 150px;
+}
+.m10{
+    margin: 0px 10px;
+}
+.mtb10{
+    margin: 10px 0;
+}
+.mlt10{
+    margin: 10px 0px 0px 10px;
+}
