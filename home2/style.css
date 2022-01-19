@@ -1,0 +1,33 @@
+.w680{
+    width: 680px;
+}
+.h250{
+    height: 250px;
+}
+.bgb{
+    background: blue;
+}
+.flex{
+    display: flex;
+}
+.w200{
+    width: 220px;
+}
+.h230{
+    height: 230px;
+}
+.bgd{
+    background: darkblue;
+}
+.h500{
+    height: 700px;
+}
+.m10{
+    margin: 0px 10px;
+}
+.mb10{
+    margin-bottom: 10px;
+}
+.mt10{
+    margin-top: 10px;
+}
