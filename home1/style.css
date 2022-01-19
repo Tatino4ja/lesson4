@@ -1,0 +1,25 @@
+.head{
+    height: 50px;
+    width: 700px;
+}
+.green{
+    background: green;
+}
+.orange{
+    background: orange;
+}
+.container{
+    display: flex;
+}
+.bp{
+    background: purple;
+    width: 250px;
+    height: 490px;
+    margin: 10px 0px;
+}
+.blue{
+    width: 440px;
+    height: 240px;
+    background: blue;
+    margin: 10px 0px 0px 10px;
+}
