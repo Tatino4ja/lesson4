@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+}
+.wh{
+    width: 305px;
+    height: 400px;
+}
+.bgb{
+    background: blue;
+}
+.kabobs{
+    width: 620px;
+    height: 300px;
+}
+.box{
+    width: 200px;
+    height: 230px;
+}
+.bgd{
+    background: darkblue;
+}
+.mtb10px{
+    margin: 10px 0px;
+}
+.mr{
+    margin-right: 10px;
+}
